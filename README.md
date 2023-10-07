@@ -7,3 +7,5 @@ IDF Version
 
 - ESP-IDF v4.4
 
+![pic_01](/assets/pic_01.jpg)
+![pic_01](/assets/pic_02.jpg)
